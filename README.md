@@ -1,5 +1,5 @@
 # JuniorDev
-My attempt at building a junior developer in 3 hours using [WizardCoder](https://huggingface.co/WizardLM/WizardCoder-15B-V1.0).
+My attempt at building a junior developer in 4 hours using [WizardCoder](https://huggingface.co/WizardLM/WizardCoder-15B-V1.0).
 
 Live streamed on [Youtube](https://www.youtube.com/watch?v=LElsbw9iBeE)
 
